@@ -1,7 +1,7 @@
 # Hey, I am Aymane! Great to see you here! <img src="/src/wave.gif" width="30px">
 
 <img src="/src/header_.png">
-I am Aymane Sarrar, currently studying at 1337 (42 network), I am a Tech enthusiast, learning about everything related to full stack development & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me playing games or maybe depressed who knows :)
+I am Aymane Sarrar, currently studying at 1337 (42 network), I am a Tech enthusiast, learning about everything related to full stack development & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me playing games who knows :)
 
 Find out more about me & feel free to connect with me here:
 
@@ -69,10 +69,4 @@ Find out more about me & feel free to connect with me here:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aymanesarrar&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aymanesarrar&hide_border=true&theme=radical" />
-</p>
-
----
-
-<p align="center">
-   <img src="https://github.com/aymanesarrar/aymanesarrar/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
