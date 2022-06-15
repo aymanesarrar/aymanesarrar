@@ -1,4 +1,4 @@
-# Hey, I am Aymane! Great to see you here! <img src="/src/wave.gif" width="30px">
+# Hey, I am Aymane! Great to see you here! <img src="/src/wave.gif" width="10px">
 
 <img src="/src/header_.png">
 I am Aymane Sarrar, currently studying at 1337 (42 network), I am a Tech enthusiast, learning about everything related to full stack development & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me playing games who knows :)
