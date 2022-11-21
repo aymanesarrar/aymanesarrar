@@ -42,7 +42,6 @@ src="https://img.shields.io/github/followers/aymanesarrar?logo=github&style=for-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
 </p>
-<img width="60px" height="40px" align="left" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" />
 
 
 ### Socials
