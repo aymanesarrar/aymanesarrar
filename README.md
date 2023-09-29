@@ -11,7 +11,7 @@ I am Aymane Sarrar, currently working in Finamaze, and peak 1337 student (42 net
 * 🧠  I'm learning backend technologies
 * 🤝  I'm open to collaborating on everything
 
-<a href="https://www.twitter.com/sarrar_aymen" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/memory_leaks_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sarrar_aymen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/aymanesarrar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aymanesarrar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
